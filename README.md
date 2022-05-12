@@ -1,6 +1,6 @@
 ## B.A.R.U.T
 
-To download the dataset [you can click here](https://drive.google.com/drive/u/0/folders/0AKb5tDyST9TmUk9PVA)
+To download the dataset you can click [here](https://drive.google.com/drive/u/0/folders/0AKb5tDyST9TmUk9PVA)
 
 ### Markdown
 
