@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## B.A.R.U.T
 
-You can use the [editor on GitHub](https://github.com/bau-barut/bau-barut.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To download the dataset [you can click here](https://drive.google.com/drive/u/0/folders/0AKb5tDyST9TmUk9PVA)
 
 ### Markdown
+
+[Image](https://www.liceoitaliano.net/wp-content/uploads/2017/01/bau-bahcesehir-universitesi-logo.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and !
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
