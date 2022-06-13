@@ -1,5 +1,3 @@
-# A Dataset for Object Detection and Tracking.
-
 <img src="https://www.liceoitaliano.net/wp-content/uploads/2017/01/bau-bahcesehir-universitesi-logo.png" alt="BAU" width="250"/>
 
 B.A.R.U.T is a dataset for Single Object Tracking (SOT) and Multiple Object Tracking (MOT) containing a large amount of **4K** aerial images captured with drones and images rendered on Unity.
