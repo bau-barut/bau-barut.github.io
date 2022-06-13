@@ -23,6 +23,6 @@ All images collected with a drone are captured in various places of Istanbul wit
 </p>
 
 
-*In cases of partial occlusions there is also an object annoted as occlusion to mark the occluded area of object.* 
+*In cases of partial occlusions there is also an object annoted as **occlusion** to mark the occluded area of object.* 
 
 <img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/occlusion.png?raw=true" alt="Occlusion" width="100" height="130"/>
