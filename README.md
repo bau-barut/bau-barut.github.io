@@ -11,18 +11,8 @@ All images collected with a drone are captured in various places of Istanbul wit
 
 ## Object Categories
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Car &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Van &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Truck &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorry &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bus
-
-
-<p float="left">
-<img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/car.png?raw=true" alt="Car" width="100" height="70"/>
-<img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/van.png?raw=true" alt="Van" width="100" height="70"/>
-<img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/truck.png?raw=true" alt="Truck" width="100" height="70"/>
-<img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/lorry.png?raw=true" alt="Lorry" width="100" height="70"/>
-<img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/bus.png?raw=true" alt="Bus" width="100" height="70"/>
-</p>
-
+| <img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/car.png?raw=true" alt="Car" width="100" height="70"/>  |                         <img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/van.png?raw=true" alt="Van" width="100" height="70"/>  |                               <img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/truck.png?raw=true" alt="Truck" width="100" height="70"/>  |                             <img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/lorry.png?raw=true" alt="Lorry" width="100" height="70"/>  |                             <img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/bus.png?raw=true" alt="Bus" width="100" height="70"/>  |                           <img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/pocclusion.png?raw=true" alt="Occlusion" width="100" height="70"/>  |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <b>Car</b>| <b>Van</b> | <b>Truck</b> | <b>Lorry</b> | <b>Bus</b> | <b>Occlusion</b> |
 
 *In cases of partial occlusions there is also an object annoted as **occlusion** to mark the occluded area of object.* 
-
-<img src="https://github.com/bau-barut/bau-barut.github.io/blob/main/occlusion.png?raw=true" alt="Occlusion" width="100" height="130"/>
