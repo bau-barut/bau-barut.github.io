@@ -6,11 +6,11 @@ B.A.R.U.T is a dataset for Single Object Tracking (SOT) and Multiple Object Trac
 All images are collected with a drone by approval of Turkish government in various places of Istanbul.
 
 #### To download the dataset you can click [here](https://drive.google.com/drive/folders/1n35gMs7pXBulr7FrLPxBO0nIq9yvgPQ6?usp=sharing)
-*This dataset is not completed yet.
+*This dataset is not completed yet.*
 
 
 ## Object Categories.
 
 Car, Van, Truck, Lorry, Bus
 
-*In cases of partial occlusion there is also an object annoted as occlusion to mark the occluded area of object.
+*In cases of partial occlusion there is also an object annoted as occlusion to mark the occluded area of object.*
