@@ -1,5 +1,4 @@
 <meta http-equiv = "refresh" content = "2; url = https://sites.google.com/sargetek.com/t1001/home" />
-<img src="https://www.liceoitaliano.net/wp-content/uploads/2017/01/bau-bahcesehir-universitesi-logo.png" alt="BAU" width="250"/>
 
 This dataset is for Single Object Tracking (SOT) and Multiple Object Tracking (MOT) containing a large amount of **4K** aerial images captured with drones and images rendered on Unity.
 
