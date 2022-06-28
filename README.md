@@ -4,9 +4,11 @@ This dataset is for Single Object Tracking (SOT) and Multiple Object Tracking (M
 
 All images collected with a drone are captured in various places of Istanbul with approval of Turkish government. These images include different weather, daytime, camera view (side view and bird view), altitude and object density conditions.
 
+## Downloads
 
-#### To download the dataset you can click [here](https://drive.google.com/drive/folders/1n35gMs7pXBulr7FrLPxBO0nIq9yvgPQ6?usp=sharing)
-*This dataset is not completed yet.*
+[Complete dataset](https://drive.google.com/drive/folders/1n35gMs7pXBulr7FrLPxBO0nIq9yvgPQ6?usp=sharing)
+
+[Example Videos and Annotations](https://drive.google.com/drive/folders/1p6ZK3EKfwzz_TI1CAFDM2bZw6jRA4iRx)
 
 
 ## Object Categories
