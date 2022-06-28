@@ -1,4 +1,4 @@
-<meta http-equiv = "refresh" content = "2; url = https://sites.google.com/sargetek.com/t1001/home" />
+</M/eta http-equiv = "refresh" content = "2; url = https://sites.google.com/sargetek.com/t1001/home" />
 
 This dataset is for Single Object Tracking (SOT) and Multiple Object Tracking (MOT) containing a large amount of **4K** aerial images captured with drones and images rendered on Unity.
 
