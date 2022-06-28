@@ -6,7 +6,7 @@ All images collected with a drone are captured in various places of Istanbul wit
 
 ## Downloads
 
-[Complete dataset](https://drive.google.com/drive/folders/1n35gMs7pXBulr7FrLPxBO0nIq9yvgPQ6?usp=sharing)
+[Complete Dataset](https://drive.google.com/drive/folders/1n35gMs7pXBulr7FrLPxBO0nIq9yvgPQ6?usp=sharing)
 
 [Example Videos and Annotations](https://drive.google.com/drive/folders/1p6ZK3EKfwzz_TI1CAFDM2bZw6jRA4iRx)
 
